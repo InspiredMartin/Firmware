@@ -34,7 +34,7 @@
 #include <drivers/drv_hrt.h>
 #include <drivers/device/device.h>
 
-#include <px4_platform_common/module.h>
+#include <px4_module.h>
 
 #include <uORB/uORB.h>
 #include <uORB/Publication.hpp>
