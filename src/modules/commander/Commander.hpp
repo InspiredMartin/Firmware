@@ -147,6 +147,8 @@ private:
 
 		(ParamInt<px4::params::COM_PREARM_MODE>) _param_com_prearm_mode,
 
+		(ParamFloat<px4::params::COM_KILL_DISARM>) _param_com_kill_disarm,
+
 		(ParamInt<px4::params::CBRK_SUPPLY_CHK>) _param_cbrk_supply_chk,
 		(ParamInt<px4::params::CBRK_USB_CHK>) _param_cbrk_usb_chk,
 		(ParamInt<px4::params::CBRK_AIRSPD_CHK>) _param_cbrk_airspd_chk,
