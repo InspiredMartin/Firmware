@@ -46,7 +46,7 @@
  *
  */
 
-#include <px4_platform_common/px4_config.h>
+#include <px4_config.h>
 
 #ifndef INPUT_TIMER
 # error "need to define INPUT_TIMER to use this header"
